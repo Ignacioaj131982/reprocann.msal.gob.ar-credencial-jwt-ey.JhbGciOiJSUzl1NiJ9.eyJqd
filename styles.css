@@ -1,0 +1,9 @@
+.imagen {
+    width: 100%; /* Ajustar al tamaño del contenedor, puede cambiar según el diseño */
+    text-align: center; /* Centra la imagen si quieres centrarla dentro del contenedor */
+}
+
+.imagen img {
+    max-width: 100%; /* Ajusta el ancho de la imagen al contenedor */
+    height: auto; /* Mantiene la relación de aspecto */
+}
